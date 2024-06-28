@@ -1,0 +1,550 @@
+
+@media(max-width:1399px){
+    .top_item {
+        display: flex;
+        margin-left: 24px;
+        align-items: center;
+        text-transform: capitalize;
+    }
+    .top_content {
+        display: flex;
+        justify-content: end;
+    }
+    .banner_left h1 {
+       
+        width: 104%;
+       
+    }
+    .banner_left h2 {
+      
+        width: 67%;
+       
+    }
+    .agency_part_1 img {
+        max-width: 93%;
+        display: block;
+        position: absolute;
+        bottom: 0;
+    }
+    .agency_part_1 {
+        width: 50%;
+        position: relative;
+    }
+    .agency_section {
+        width: 92%;
+        padding-top: 55px;
+        margin: auto;
+    }
+    .post img {
+        
+        margin-top: 5px;
+    }
+    footer {
+      
+        padding: 22px;
+    }
+    .post {
+       
+        align-items: flex-start;
+       
+    }
+    .footer_icon h4 {
+        margin-right: 29px;
+      
+    }
+    .main_header a img{
+        display: none;
+    
+    }
+    
+   
+}
+@media(max-width:1199px){
+    .top_item p {
+        font-size: 14px;
+        
+    }
+    .main_header a img{
+        display: none;
+    
+    }
+    
+    .top_logo img {
+        width: 97%;
+    }
+    .top_item img {
+        margin-right: 4px;
+        width: 80%;
+    }
+    .collapse button {
+       
+        width: 23%;
+        
+    }
+    .banner_left p {
+        
+        width: 85%;
+    }
+    .banner_left h2 {
+        width: 84%;
+    }
+    .banner_left h1 {
+        width: 84%;
+        padding-left: 16px;
+        text-align: left;
+    }
+    .btn_book {
+        
+        margin-left: 30px;
+       
+    }
+    .banner_left_content {
+        margin-top: 17%;
+    }
+    .agency_part_1 img {
+        max-width: 98%;
+     
+    }
+    .agency_content {
+        width: 45%;
+        margin-top: 15px;
+    }
+    .agency_part2_heading p {
+       
+        display: none;
+        
+    }
+    .doctors_heading p {
+        width: 62%;
+        
+    }
+    .post_3{ display: none;}
+    .input_email input {
+        padding: 4px;
+        width: 65%;
+    }
+    .footer_icon i {
+        margin: 7px;
+        background: #837f7fba;
+        padding: 3px;
+    }
+    .input_email button {
+        padding: 5px 4px;
+        
+        font-weight: 300;
+    }
+    .footer_item h3 {
+        
+        font-size: 25px;
+    }
+    .top_top_item img {
+        margin-bottom: 33px;
+        width: 60%;
+    }
+    .footer_item p {
+        font-size: 14px;
+        
+    }
+    .address {
+        
+        margin: 16px 0;
+    }
+    .address i {
+        font-size: 28px;
+        margin-right: 11px;
+        color: #00cce1;
+    }
+    .post p span {
+        font-size: 12px;
+        font-weight: lighter;
+        color: #00cce1;
+    }
+
+    @media(max-width:991px){
+        .col-md-3 {
+            
+            width: 0%;
+        }
+        .main_header a img {
+            display: block;
+            width: 75%;
+            padding: 4px;
+        }
+        .nav-item {
+            text-align: center;
+        }
+        
+        .top_content {
+           
+            width: 122%;
+        }
+        .top_item {
+            display: flex;
+            margin-left: 0px;
+            align-items: center;
+            justify-content: space-between;
+            text-transform: capitalize;
+        }
+        .top_content {
+            display: flex;
+            justify-content: space-between;
+            width: 120%;
+            margin-left: -135px;
+        }
+        .collapse button {
+           
+            display: none;
+          
+        }
+        .banner_left p {
+            
+            display: none;
+        }
+        .banner_left h1 {
+           
+            width: 107%;
+           
+        }
+        .banner_left h2 {
+            width: 107%;
+        }
+        .banner_button {
+            display: flex;
+            width: 107%;
+        }
+        .btn_learn {
+            
+            
+            width: 47%;
+            padding: 8px 3px;
+            margin-right: 1px !important;
+        }
+        .btn_book {
+           
+            margin-top: 20px;
+            font-weight: 500;
+            padding: 8px 16px;
+            margin-left: 30px;
+        }
+        .agency_part_1 {
+          
+            display: none;
+        }
+        .agency_part_2 {
+            padding-bottom: 44px;
+            width: 100%;
+        }
+        .agency_part2_heading h2 {
+            text-align: center;
+           
+        }
+        .agency_content {
+            
+            text-align: center;
+        }
+
+        .agency_part2_heading p {
+            display: block;
+            text-align: center;
+        }
+        .service_item {
+            
+            width: 48%;
+           
+        }
+        .footer_icon h4 {
+            margin-right: 22px;
+            font-size: 27px;
+        }
+        .footer_icon {
+            display: block;
+        }
+        .footer_icon i {
+            background: #837f7fba;
+            padding: 7px;
+            margin: 0;
+            margin-right: 10px;
+            margin-top: 23px;
+        }
+    }
+
+    }
+
+
+
+
+
+
+@media(max-width:767px){
+   
+    .top_mail{display: none;}
+    .top_content {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 0;
+        width: 100%;
+    }
+    .top_header {
+        padding: 11px 41px;
+    }
+    .banner_left h2 {
+        width: 55%;
+        margin: auto;
+    }
+    .banner_left h1 {
+        width: 69%;
+        margin: auto;
+        margin-top: 24px;
+    }
+    .btn_learn {
+        padding: 8px 8px;
+        margin-right: 0;
+        width: 23%;
+    }
+    .banner_button {
+        display: flex;
+        justify-content: center;
+    }
+    .banner_left h1 {
+        width: 76%;
+        margin: auto;
+        margin-top: 24px;
+        text-align: center;
+        padding-left: 0;
+    }
+    .banner_button {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    banner_section {
+        
+        padding-top: 0px;
+    }
+    .banner_left_content {
+        margin: 10% 0;
+    }
+    .doctor_info h4 {
+        
+        font-size: 20px;
+    }
+    .doctors_profile {
+        
+        width: 30%;
+       
+    }
+    .doctor_info p {
+        font-size: 16px;
+      
+    }
+    .doctors_heading p {
+        width: 100%;
+    }
+    .service_top {
+        display: flex;
+        justify-content: center;
+    }
+    .service_item p {
+       
+        text-align: center;
+    }
+    .service_top h4 {
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .service_top img {
+        margin-right: 6px;
+        width: 10%;
+    }
+    .service_item h6 {
+       
+        text-align: center;
+    }
+    .price_table {
+       
+        width: 84%;
+       
+       
+        margin: auto;
+    }
+  
+    .price_middle {
+        margin-top: 31px;
+        margin-bottom: 31px;
+    }
+    .pricing_row{
+        justify-content: center;
+    }
+    .clint_logo img{
+        width: 46% !important;
+    }
+    .post_3 {
+        display: inline-flex;
+    }
+    .footer_item {
+        margin-bottom: 24px;
+    }
+    .doctors_profile {
+        width: 48% !important;
+    }
+  
+}
+    
+
+@media(max-width:575px){
+    .top_header {
+        padding: 11px 13px;
+    }
+    .btn_learn {
+        padding: 8px 8px;
+        margin-right: 0;
+        width: 32%;
+    }
+    .banner_left h1 {
+        width: 87%;
+       
+    }
+    .banner_left h2 {
+        width: 63%;
+        margin: auto;
+    }
+    .banner_section {
+       
+        padding-top: 0;
+    }
+    .agency_content {
+        width: 46%;
+       
+    }
+    .doctors_heading {
+        text-align: center;
+        padding: 56px 20px;
+    }
+    
+    .doctors_profile {
+        width: 48%;
+    }
+    .service_item {
+        width: 93%;
+        margin: auto;
+        margin-bottom: 21px;
+    }
+    .service_section {
+        margin: 11px;
+        padding-bottom: 42px;
+    }
+    .service_top {
+      
+        align-items: center;
+    }
+}
+@media(max-width:425px){
+    .top_header {
+        padding: 5px 5px;
+    }
+    
+    .top_item img {
+        margin-right: 2px;
+        width: 69%;
+    }
+    .top_item p {
+        font-size: 13px;
+    }
+    .top_item h5 {
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .navbar-toggler-icon {
+        
+        width: 1em;
+       
+    }
+    .btn_learn {
+      
+        width: 37%;
+    }
+    .banner_left h1 {
+        width: 102%;
+    }
+    .banner_left h2 {
+        width: 72%;
+        margin: auto;
+    }
+    .btn_book {
+     
+        width: 37%;
+    }
+    .agency_content {
+        width: 81%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    .doctors_profile {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 36px;
+    }
+    .doctors_all {
+        
+        padding-bottom: 20px;
+    }
+    .doctors_heading {
+        text-align: center;
+        padding: 56px 3px;
+    }
+    .service_item {
+        
+        padding: 4px;
+    }
+    .claint_heading .doctors_heading p {
+        
+        font-size: 16px;
+        
+    }
+}
+@media(max-width:375px){
+    .btn_learn {
+        padding: 1px 0px;
+        margin-right: 0;
+        width: 32%;
+    }
+    .btn_learn {
+        width: 39%;
+    }
+    .btn_book {
+        margin-top: 20px;
+        font-weight: 500;
+        padding: 7px 0px;
+        margin-left: 30px;
+    }
+    
+    .btn_book {
+        width: 39%;
+    }
+    .banner_left h1 {
+        width: 74%;
+    }
+    .banner_left h2 {
+        width: 84%;
+        margin: auto;
+    }
+    .index_img {
+        
+        margin-left: 50px;
+    }
+    .agency_content {
+        width: 87%;
+      
+    }
+    .table_bottom {
+        padding: 15px;
+    }
+    .table_top {
+        padding: 15px;
+    }
+}
+@media(max-width:320px){
+
+}
+
+
